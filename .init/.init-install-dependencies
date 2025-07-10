@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/note-keeper-41fbf1d6/notes_frontend"
+}
